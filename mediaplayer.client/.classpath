@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="breder/mediaplayer/client/ui/main/MusicOrderModel.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jl1.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/breder.util"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/mediaplayer.shared"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/breder.webservice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/breder.mp3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
